@@ -1,6 +1,6 @@
 {
   "name": "imghash-bbassi",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Image perceptual hash calculation for node. Based on package imghash v0.0.7 but fixes that is waiting to go upstream.",
   "main": "index.js",
   "scripts": {
