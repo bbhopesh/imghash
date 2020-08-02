@@ -1,7 +1,7 @@
 {
-  "name": "imghash",
-  "version": "0.0.7",
-  "description": "Image perceptual hash calculation for node",
+  "name": "imghash-bbassi",
+  "version": "0.0.1",
+  "description": "Image perceptual hash calculation for node. Based on package imghash v0.0.7 but fixes that is waiting to go upstream.",
   "main": "index.js",
   "scripts": {
     "prettier": "prettier --write index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pwlmaciejewski/imghash.git"
+    "url": "git+https://github.com/bbhopesh/imghash.git"
   },
   "keywords": [
     "perceptual",
@@ -18,15 +18,15 @@
     "phash",
     "imgseek"
   ],
-  "author": "Paweł Maciejewski <pwlmaciejewski@gmail.com>",
+  "author": "Bhopesh Bassi <bbassi@pm.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pwlmaciejewski/imghash/issues"
+    "url": "https://github.com/bbhopesh/imghash/issues"
   },
   "engines": {
     "node": ">=8.x.x"
   },
-  "homepage": "https://github.com/pwlmaciejewski/imghash#readme",
+  "homepage": "https://github.com/bbhopesh/imghash#readme",
   "devDependencies": {
     "jest": "^26.1.0",
     "leven": "^3.1.0",
